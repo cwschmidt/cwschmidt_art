@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://cwschmidt.github.io/cwschmidt_art/sitemap.xml
