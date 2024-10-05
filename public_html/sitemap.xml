@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://cwschmidt.github.io/cwschmidt_art/</loc>
+        <loc>https://cwschmidt.github.io/cwschmidt_art/public_html/</loc>
     </url>
     <url>
-        <loc>https://cwschmidt.github.io/cwschmidt_art/comissions/</loc>
+        <loc>https://cwschmidt.github.io/cwschmidt_art/public_html/comissions/</loc>
     </url>
     <url>
-        <loc>https://cwschmidt.github.io/cwschmidt_art/contact/</loc>
+        <loc>https://cwschmidt.github.io/cwschmidt_art/public_html/contact/</loc>
     </url>
     <url>
-        <loc>https://cwschmidt.github.io/cwschmidt_art/gallery/</loc>
+        <loc>https://cwschmidt.github.io/cwschmidt_art/public_html/gallery/</loc>
     </url>
     <url>
-        <loc>https://cwschmidt.github.io/cwschmidt_art/home/</loc>
+        <loc>https://cwschmidt.github.io/cwschmidt_art/public_html/home/</loc>
     </url>
     <url>
-        <loc>https://cwschmidt.github.io/cwschmidt_art/legal_notice/</loc>
+        <loc>https://cwschmidt.github.io/cwschmidt_art/public_html/legal_notice/</loc>
     </url>
     <url>
-        <loc>https://cwschmidt.github.io/cwschmidt_art/privacy_policy/</loc>
+        <loc>https://cwschmidt.github.io/cwschmidt_art/public_html/privacy_policy/</loc>
     </url>
 </urlset>
